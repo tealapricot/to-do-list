@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = mytodolist
+PRODUCT_NAME = todolist_project
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.mytodolist
+PRODUCT_BUNDLE_IDENTIFIER = com.example.todolistProject
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2023 com.example. All rights reserved.
